@@ -1,4 +1,4 @@
-.gradle
+.gradle/
 **/build/
 !src/**/build/
 
@@ -12,7 +12,7 @@ gradle-app.setting
 *.ear
 
 # User-specific stuff:
-.idea
+.idea/
 
 # Gradle:
 .idea/gradle.xml
