@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Class-Path: kafka-streams-protobuf-serde-7.3.0.jar kafka-protobuf-serial
+ izer-7.3.0.jar kafka-protobuf-provider-7.3.0.jar kafka-protobuf-types-7
+ .3.0.jar protobuf-java-util-3.19.4.jar proto-google-common-protos-2.5.1
+ .jar protobuf-java-3.21.10.jar slf4j-simple-2.0.5.jar kafka-streams-7.3
+ .0-ccs.jar kafka-schema-serializer-7.3.0.jar kafka-schema-registry-clie
+ nt-7.3.0.jar common-utils-7.3.0.jar avro-1.11.0.jar slf4j-api-2.0.5.jar
+  kafka-clients-7.3.0-ccs.jar rocksdbjni-6.29.4.1.jar commons-compress-1
+ .21.jar jackson-core-2.13.2.jar jackson-annotations-2.13.2.jar jackson-
+ databind-2.13.2.2.jar swagger-annotations-2.1.10.jar wire-schema-jvm-4.
+ 3.0.jar guava-31.1-jre.jar wire-runtime-jvm-4.3.0.jar okio-jvm-3.0.0.ja
+ r commons-lang3-3.12.0.jar kotlin-stdlib-jdk8-1.6.10.jar kotlin-stdlib-
+ jdk7-1.6.10.jar kotlin-stdlib-1.6.10.jar error_prone_annotations-2.11.0
+ .jar j2objc-annotations-1.3.jar jsr305-3.0.2.jar gson-2.8.6.jar failure
+ access-1.0.1.jar listenablefuture-9999.0-empty-to-avoid-conflict-with-g
+ uava.jar checker-qual-3.12.0.jar kotlin-stdlib-common-1.6.10.jar annota
+ tions-13.0.jar
+Main-Class: rahulganjave.kafkastreams.serdes.SplitMovieStreamApp
+
