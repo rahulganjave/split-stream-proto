@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-package rahulganjave.kafkastreams.proto;
-
-message Acting {
-  string name = 1;
-  string title = 2;
-  string genre = 3;
-}
